@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfAppDispatcher.FensterParkGebuehren"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppDispatcher"
+        mc:Ignorable="d"
+        Title="FensterParkGebuehren" Height="450" Width="800">
+    <Grid Background="#FF937D7D">
+        <Label Content=" Parkhaus Paleet&#xD;&#xA;Parkgebühren" HorizontalAlignment="Left" Height="60" Margin="260,40,0,0" VerticalAlignment="Top" Width="180" FontSize="16" FontWeight="Bold" Background="#FFF7D9D9"/>
+        <Label Content="PKW Kennzeichen&#xD;&#xA;Eingabe ohne Sonderzeichen" HorizontalAlignment="Left" Height="46" Margin="29,143,0,0" VerticalAlignment="Top" Width="189" Background="#FFF3E0E0"/>
+        <TextBox x:Name="TxtKennzeichen" HorizontalAlignment="Left" Height="28" Margin="307,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+        <Label Content="Wahl der Parkdauer" HorizontalAlignment="Left" Height="31" Margin="29,221,0,0" VerticalAlignment="Top" Width="132" Background="#FFF3E0E0"/>
+        <RadioButton x:Name="Kiss" Content="bis 10 Minuten &#xD;&#xA;(park and kiss)" HorizontalAlignment="Left" Height="31" Margin="307,221,0,0" VerticalAlignment="Top" Width="143" Background="#FFF7EFEF" ContentStringFormat=""/>
+        <RadioButton x:Name="Sixty" Content="bis 60 Minuten" HorizontalAlignment="Left" Height="31" Margin="307,263,0,0" VerticalAlignment="Top" Width="143" Background="#FFF7EFEF"/>
+        <RadioButton x:Name="HundertAndTwenty" Content="bis 120 Minuten" HorizontalAlignment="Left" Height="31" Margin="307,293,0,0" VerticalAlignment="Top" Width="143" Background="#FFF7EFEF"/>
+        <RadioButton x:Name="Day" Content="ganzer Tag" HorizontalAlignment="Left" Height="31" Margin="307,329,0,0" VerticalAlignment="Top" Width="143" Background="#FFF7EFEF"/>
+        <ListBox x:Name="Parkticket" HorizontalAlignment="Left" Height="63" Margin="520,189,0,0" VerticalAlignment="Top" Width="157"/>
+        <Label Content="Parkticket" HorizontalAlignment="Left" Height="31" Margin="520,153,0,0" VerticalAlignment="Top" Width="157" Background="#FFF3E0E0"/>
+        <Button x:Name="Ticket" Content="Ticket" HorizontalAlignment="Left" Height="29" Margin="307,365,0,0" VerticalAlignment="Top" Width="83" Click="Ticket_Click"/>
+        <RadioButton x:Name="RbBike" Content="Fahrrad" HorizontalAlignment="Left" Height="31" Margin="307,190,0,0" VerticalAlignment="Top" Width="143" Background="#FFF7EFEF" ContentStringFormat=""/>
+
+    </Grid>
+</Window>

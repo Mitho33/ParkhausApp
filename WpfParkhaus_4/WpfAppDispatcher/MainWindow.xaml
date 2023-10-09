@@ -1,0 +1,303 @@
+﻿<Window x:Class="WpfAppDispatcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppDispatcher"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+        <Canvas x:Name="Background" HorizontalAlignment="Left" Height="360" Margin="10,49,0,0" VerticalAlignment="Top" Width="782">
+
+            <Label x:Name="LabelTime" Content="Label" HorizontalAlignment="Left" Height="81" Margin="650,10,0,0" VerticalAlignment="Top" Width="142"/>
+            <Rectangle x:Name="Tor" Fill="#FF02020E" HorizontalAlignment="Left" Height="160" Stroke="Black" VerticalAlignment="Top" Width="67" MaxHeight="174" Canvas.Left="162" Canvas.Top="160" RenderTransformOrigin="-0.993,0.461">
+                <Rectangle.ContextMenu>
+                    <ContextMenu>
+                        <ContextMenu.ContextMenu>
+                            <ContextMenu Height="Auto" HasDropShadow="True"/>
+                        </ContextMenu.ContextMenu>
+                    </ContextMenu>
+                </Rectangle.ContextMenu>
+            </Rectangle>
+            <Rectangle Fill="#FF02020E" HorizontalAlignment="Left" Height="32" Stroke="Black" VerticalAlignment="Top" Width="798" Canvas.Left="-16" Canvas.Top="320"/>
+            <Rectangle Fill="#FF69696E" HorizontalAlignment="Left" Height="370" Stroke="Black" VerticalAlignment="Top" Width="245" Opacity="0.5" Canvas.Left="-16" Canvas.Top="-18"/>
+            <Canvas x:Name="Auto" HorizontalAlignment="Left" Height="92" VerticalAlignment="Top" Width="158" Canvas.Left="532" Canvas.Top="242" >
+                <Rectangle x:Name="Auto1" Fill="#FF0B0BE8" HorizontalAlignment="Left" Height="34" VerticalAlignment="Top" Width="158" Canvas.Top="42"/>
+                <Rectangle x:Name="Auto2" Fill="#FF0B0BE8" HorizontalAlignment="Left" Height="34" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.492,1.441" Canvas.Left="43" Canvas.Top="8"/>
+                <Ellipse x:Name="Auto3" Fill="#FF02020E" HorizontalAlignment="Left" Height="28" Stroke="Black" VerticalAlignment="Top" Width="28" RenderTransformOrigin="-2.036,-2.964" Canvas.Left="22" Canvas.Top="62"/>
+                <Ellipse Fill="#FF02020E" HorizontalAlignment="Left" Height="28" Stroke="Black" VerticalAlignment="Top" Width="28" RenderTransformOrigin="-2.036,-2.964" Canvas.Left="106" Canvas.Top="62"/>
+            </Canvas>
+            <Canvas Height="34" Canvas.Left="214" Canvas.Top="121" Width="15" Background="Black">
+                <Ellipse x:Name="Ampel" Fill="#FFD12210" Height="11" Stroke="Black" Canvas.Top="10" Width="15" RenderTransformOrigin="0.429,0.812"/>
+            </Canvas>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="56" Stroke="Black" Canvas.Top="84" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="100" Stroke="Black" Canvas.Top="84" Width="28" RenderTransformOrigin="3.426,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="144" Stroke="Black" Canvas.Top="84" Width="27" RenderTransformOrigin="0.5,0.5">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="11" Stroke="Black" Canvas.Top="84" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="191" Stroke="Black" Canvas.Top="84" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="56" Stroke="Black" Canvas.Top="84" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="100" Stroke="Black" Canvas.Top="84" Width="28" RenderTransformOrigin="3.426,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="144" Stroke="Black" Canvas.Top="84" Width="27" RenderTransformOrigin="0.5,0.5">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="11" Stroke="Black" Canvas.Top="84" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="191" Stroke="Black" Canvas.Top="84" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="54" Stroke="Black" Canvas.Top="51" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="98" Stroke="Black" Canvas.Top="51" Width="28" RenderTransformOrigin="3.426,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="142" Stroke="Black" Canvas.Top="51" Width="28" RenderTransformOrigin="0.5,0.5">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="10" Stroke="Black" Canvas.Top="51" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="190" Stroke="Black" Canvas.Top="51" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="56" Stroke="Black" Canvas.Top="18" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="100" Stroke="Black" Canvas.Top="18" Width="28" RenderTransformOrigin="3.426,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="144" Stroke="Black" Canvas.Top="18" Width="27" RenderTransformOrigin="0.5,0.5">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="11" Stroke="Black" Canvas.Top="18" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="191" Stroke="Black" Canvas.Top="18" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="56" Stroke="Black" Canvas.Top="118" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="100" Stroke="Black" Canvas.Top="118" Width="28" RenderTransformOrigin="3.426,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="144" Stroke="Black" Canvas.Top="118" Width="27" RenderTransformOrigin="0.5,0.5">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle Fill="#FF69696E" Height="20" Canvas.Left="11" Stroke="Black" Canvas.Top="118" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Label Content="Parkhaus Paleet" Height="34" Canvas.Left="31" Canvas.Top="-14" Width="147" FontSize="18"/>
+            <Rectangle Fill="#FF69696E" Height="49" Canvas.Left="11" Stroke="Black" Canvas.Top="278" Width="26" RenderTransformOrigin="2.204,0.325">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="7"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Button x:Name="EinfahrtAuto" Content="Auto" Height="21" Canvas.Left="646" Canvas.Top="96" Width="78" Click="EinfahrtAuto_Click"/>
+            <Label x:Name="Full" Content="Frei Plätze" Height="29" Canvas.Left="54" Canvas.Top="160" Width="76"/>
+            <Label x:Name="Belegung" Content="" Height="30" Canvas.Left="54" Canvas.Top="189" Width="54" Background="#FFFBEBEB"/>
+            <Label x:Name="AnzahlPlaetze" Content="" Height="30" Canvas.Left="54" Canvas.Top="224" Width="54" Background="#FFFBEBEB"/>
+            <!--Canvas bike wird erzeugt zum wandern und image wird eingefügt und mit Alt im Canvas plaziert, das bild wird im Projektexplorer
+            hinterlegt und dann der Pfad über die Bildeighenschaften kopiert und im Steuerelement image eingefügt-->
+            <Canvas x:Name="Bike" Height="59" Canvas.Left="555" Canvas.Top="256" Width="88">
+                <Canvas.Background>
+                    <ImageBrush/>
+                </Canvas.Background>
+            </Canvas>
+            <Button x:Name="EinfahrtRad" Content="Fahrrad" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="78" Click="EinFahrt_Click" Canvas.Left="646" Canvas.Top="45"/>
+        </Canvas>
+        <Label x:Name="Begruessung" Content="Herzlich Willkomen &#xD;&#xA;im Parkhaus Paleet" HorizontalAlignment="Left" Height="41" Margin="254,37,0,0" VerticalAlignment="Top" Width="177" Background="#FFC92626" FontWeight="Bold" HorizontalContentAlignment="Center" Visibility="Collapsed"/>
+    </Grid>
+</Window>

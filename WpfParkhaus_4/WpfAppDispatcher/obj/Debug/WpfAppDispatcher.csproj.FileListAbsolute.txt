@@ -1,0 +1,204 @@
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe.config
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.pdb
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csprojAssemblyReference.cache
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\App.g.cs
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.cache
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.lref
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\MainWindow.baml
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.g.resources
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.Properties.Resources.resources
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.GenerateResource.cache
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.exe
+C:\Users\USUB\desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe.config
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.g.resources
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.g.cs
+C:\Users\Michael Thomas\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.baml
+C:\Users\USUB\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.g.cs
+C:\Users\USUB\Desktop\WpfAppDispatcher\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.baml
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe.config
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.pdb
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.g.cs
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.baml
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.g.resources
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.exe
+C:\Users\USUB\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe.config
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.g.cs
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.baml
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.g.resources
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_1\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe.config
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.g.cs
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.baml
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.g.resources
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_2\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe.config
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.g.cs
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.baml
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.g.resources
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.pdb
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe.config
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.pdb
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.g.cs
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.baml
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.g.resources
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.exe
+C:\Users\USUB\Desktop\WpfParkhaus_3\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.pdb
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe.config
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.pdb
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.g.cs
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.baml
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.g.resources
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.exe
+C:\Users\USUB\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe.config
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.g.cs
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.baml
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.g.resources
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe.config
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.g.cs
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.baml
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.g.resources
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe.config
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.g.cs
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.baml
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.g.resources
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe.config
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\bin\Debug\WpfAppDispatcher.pdb
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\FensterParkGebuehren.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.g.resources
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.exe
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\WpfParkhaus_4\WpfAppDispatcher\obj\Debug\WpfAppDispatcher.pdb
